@@ -1,0 +1,7 @@
+body{
+    background-color: beige;
+}
+div{
+    display: flex;
+    justify-content: center;
+}

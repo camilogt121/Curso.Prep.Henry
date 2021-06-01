@@ -1,0 +1,38 @@
+.divClass{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../homework/img/atardecer.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+h1{
+    color: cyan;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+#thirdDiv{
+    height: 600;
+    width: 500;
+    background: darkorange;
+    padding: 50px;
+    border-color: 60px, red;
+    display: flex;
+    justify-content: center;
+}
